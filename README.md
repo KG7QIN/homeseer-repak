@@ -1,3 +1,5 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 Welcome to the HomeSeer Linux Repak repo
 
 This repo includes the .deb files to install HomeSeer 4.2.22.4 on Debian/Ubuntu linux.
