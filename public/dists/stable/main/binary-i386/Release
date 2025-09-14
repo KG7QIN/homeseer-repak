@@ -1,0 +1,7 @@
+Origin: . stable
+Label: . stable
+Archive: stable
+Suite: stable
+Codename: stable
+Architecture: i386
+Component: main

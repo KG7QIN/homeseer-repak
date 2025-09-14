@@ -1,0 +1,18 @@
+Package: homeseer
+Essential: no
+Priority: optional
+Section: misc
+Maintainer: Only Packaged for Linux by kg7qin@arrl.net
+Architecture: all
+Version: 4.2.22.4
+Depends: mono-complete, mono-devel, flite, aha, ffmpeg, alsa-utils, tmux, curl, wget, nano, sudo
+Recommends: chromium
+Filename: pool/main/h/homeseer/homeseer-4.2.22-4_all.deb
+Size: 37968396
+MD5sum: 348e0fc38abf08f96a6b3d8e51fd37e2
+SHA1: 5c35f0c2bab69c0b8c6ff3dd00b3c4767fcc8f36
+SHA256: bfa17f91e5f0ac251381f446d1da7ff8209a05bf83914003899151359c76e401
+SHA512: 4f4b9cfd7aade255cbbcdb634043a96cc61e6eaed4a85e48cfc07b4afb702665c8c95ef6cd05d700494ed3566e1c4630c9752b4c4a17f28391f3cbe0d0b0761c
+Description: HomeSeer Home Automation Server (Linux Debian Package)
+Homepage: 
+
