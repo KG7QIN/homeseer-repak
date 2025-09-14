@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/keyrings/homeseer_key.gpg] http://10.0.2.117:8080 stable main
+deb [signed-by=/etc/apt/keyrings/homeseer_key.gpg] https://homeseer.digiflux.org/public stable main
