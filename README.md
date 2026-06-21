@@ -2,7 +2,7 @@
 
 Welcome to the HomeSeer Linux Repak repo
 
-This repo includes the .deb files to install HomeSeer 4.2.22.4 on Debian/Ubuntu linux.
+This repo includes the .deb files to install HomeSeer 4.2.23.0 on Debian/Ubuntu linux.
 
 To setup this repo on your system:
 
